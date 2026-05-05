@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">xservis</string>
+
+    <!-- Common -->
+    <string name="connect">Подключить</string>
+    <string name="disconnect">Отключить</string>
+    <string name="connecting">Соединение…</string>
+    <string name="connected">Подключено</string>
+    <string name="disconnected">Отключено</string>
+    <string name="scan_network">Сканировать сеть</string>
+    <string name="scanning">Сканирование…</string>
+
+    <!-- Tabs -->
+    <string name="tab_home">Главная</string>
+    <string name="tab_servers">Серверы</string>
+    <string name="tab_payments">Тарифы</string>
+    <string name="tab_account">Аккаунт</string>
+
+    <!-- Scan results -->
+    <string name="scan_result_title">Результат сканирования</string>
+    <string name="scan_block_method">Метод блокировки</string>
+    <string name="scan_recommended_protocol">Рекомендуемый протокол</string>
+    <string name="scan_isp">Провайдер</string>
+    <string name="scan_geo">Регион</string>
+
+    <!-- Login -->
+    <string name="login_title">Вход в xservis</string>
+    <string name="login_phone">Номер телефона</string>
+    <string name="login_email">E-mail (необязательно)</string>
+    <string name="login_continue">Продолжить</string>
+    <string name="login_existing_user_hint">Если вы уже пользовались нашим сервисом, ваш аккаунт будет восстановлен автоматически.</string>
+
+    <!-- Errors -->
+    <string name="err_network">Нет соединения с сервером</string>
+    <string name="err_unknown">Неизвестная ошибка</string>
+</resources>
