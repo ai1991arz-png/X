@@ -70,6 +70,7 @@ async def submit_scan(
     )
     session.add(scan)
     await session.flush()
+    await session.refresh(scan, ["created_at"])
 
     # Update aggregated isp_block_methods (idempotent upsert-ish)
     if geo and geo.isp and body.block_method:
