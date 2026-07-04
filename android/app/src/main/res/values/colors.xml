@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed_teal">#00E5C7</color>
+    <color name="bg_black">#0A0E12</color>
+    <color name="bg_charcoal">#13181E</color>
+    <color name="surface_grey">#1B2128</color>
+    <color name="text_grey">#8A949C</color>
+</resources>
